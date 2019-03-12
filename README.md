@@ -1,2 +1,2 @@
 # Talent-Compitetion-Task
-###Only uploaded the file I have coded.
+Only uploaded the file I have coded.
