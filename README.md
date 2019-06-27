@@ -3,19 +3,19 @@
  
 ### What I have done in Employer profile page:
 
-Add last name to the primary contact details
-Allow users to edit company contact details by clicking on the edit button
-Display the user's full name on primary contact details (for read only display)
+- Add last name to the primary contact details
+- Allow users to edit company contact details by clicking on the edit button
+- Display the user's full name on primary contact details (for read only display)
 
 ### What I have done in  Manage Job page:
 
-Display jobs as a list of cards
+- Display jobs as a list of cards
 
 
 
 
 
-Launch Talent project
+### How to launch Talent project
 
 Get the latest source via Source Control Explorer
 Run webpack:
